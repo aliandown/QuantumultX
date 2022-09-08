@@ -5,6 +5,8 @@
 # HOST-SUFFIX: 39
 # IP-CIDR: 23
 # TOTAL: 62
+
+HOST-SUFFIX,serve.com,Blizzard
 HOST-SUFFIX,easebar.com,Blizzard
 HOST-SUFFIX,battle.net,Blizzard
 HOST-SUFFIX,blizzard.com,Blizzard
