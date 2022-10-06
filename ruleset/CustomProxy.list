@@ -6,4 +6,4 @@
 # IP-CIDR: 23
 # TOTAL: 62
 
-HOST-SUFFIX,kaiyun.com
+DOMAIN-SUFFIX,kaiyun.com,PROXY
